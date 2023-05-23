@@ -1,0 +1,35 @@
+Array=>colection of homogenous data types
+[]
+
+datatypes
+1. primitive=>string,boolean,Number
+2.non-primitive=>Array, Object  //reference data types
+
+Syntax:
+var<array name>=[comma seperated values];
+
+{}=>object
+
+JSON=>Array of objects
+Javascript Object Notation
+
+index=>position of an item
+push=> It will  insert a new item at the end of an array
+
+array-name.push("new item")
+pop=>it will remove an item from the end
+unshift=>insert an item at the beginning of an array
+shift()=>Delete an item from the beginning of an array
+
+splice()=>it will allow us add an item at any specific position of an array
+
+array_name.splice(start_index,how many no of item wants to remove,"new item");
+
+sort()=>arrange an item in ascendind order
+
+**ANYTHING IN JS IS CONSIDERED AS AN OBJECT**
+reverse()=>Reverse an array of items
+concat()=>It will merge arrays
+isArray()=>to identify array is an array
+toString()=>converts array to string
+split()=>It will convert string to an array
