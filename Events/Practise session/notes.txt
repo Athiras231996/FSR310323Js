@@ -1,0 +1,17 @@
+Event-> Any action happended on web browser
+click
+scroll
+keypress
+page load
+
+DOM->Document object Model
+
+feature
+1.darkmode/light Model
+2.zoom in and zoom out
+
+Input:
+keyUp
+keypress
+onFocus
+onBlur
